@@ -21,7 +21,7 @@ const Sidebar = () => {
 				</Link>
 
 				<Link
-					to='/'
+					to='/nikhilkumar50'
 					className='p-1.5 flex justify-center transition-colors duration-200 rounded-lg 
 					hover:bg-gray-800'
 				>
