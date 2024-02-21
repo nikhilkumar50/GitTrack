@@ -1,4 +1,4 @@
-# Build and Deploy a Github-like App | React, MongoDB, Express.js, Passport.js
+# Build and Deploy a GitTrack | React, MongoDB, Express.js, Passport.js
 
 ![Demo App](https://i.ibb.co/xfpddW2/Screenshot-22.png)
 
