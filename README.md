@@ -8,13 +8,14 @@ Demo App
 Features:
 
 -   ⚙️ Tech stack: MERN + TailwindCSS + Github API
--   🔑 Authentication && Authorization with Passport.js (Github Auth)
--   👾 Fetch Github User Profiles and Repos
+-   🔑 Utilizing authentication and authorization through Passport.js, integrating GitHub authentication.
+-   👾Fetching GitHub user profiles from a platform with over 100 million developers, enabling exploration based on criteria such as most recents, most forks, and most stars.
 -   🚀 Filter Repos on the Client based on MOST RECENTS,MOST FORKS,MOST STARS
--   🎭 Search a user based on Username 
--   🐛 Error handling (both on the server and on the client)
--   🎃 Explore popular repos of various languages.
--   ⏳ Liked github profile.
+-   🎭 Providing access to 28 million public repositories on GitHub, enhancing the platform's capability for users to discover and explore repositories based on various metrics.
+-   🐛 Incorporating search functionality for discovering GitHub profiles based on usernames.
+-   🎃 Designing a feature for exploring popular repositories across various programming languages.
+-   ⏳Implementing a feature allowing users to save liked GitHub profiles for future reference.
+
 ### Setup .env file
 
 ```js
