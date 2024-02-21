@@ -1,6 +1,7 @@
 # Build and Deploy a GitTrack | React, MongoDB, Express.js, Passport.js
 
-![Demo App](https://i.ibb.co/xfpddW2/Screenshot-22.png)
+
+![Homepage](https://github.com/nikhilkumar50/GitTrack/assets/118098709/5b874968-3334-4609-b3c8-0a50f114920d)
 
 
 Features:
